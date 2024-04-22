@@ -1,8 +1,6 @@
 public class APLine
 {
- private int first = 0;
-  private int second = 0;
-  private int third = 0;
+ private int first, second, third;
 
   public APLine(int a, int b, int c){
     first = a;
